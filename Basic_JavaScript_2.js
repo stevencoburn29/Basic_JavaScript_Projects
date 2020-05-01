@@ -1,5 +1,5 @@
-function myFunction() {
-	var sentence = "PUSH IT REAL GOOD!";
-	sentence += " Actually, no. I'm ashamed of you for pushing too hard.";
-	document.getElementById("Push it").innerHTML = sentence;
+function Functional_Function() {
+    var A = "You can do";
+    A += " anything you put your mind into.";
+    document.getElementById("Identify_Me").innerHTML = A;
 }
